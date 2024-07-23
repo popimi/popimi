@@ -70,6 +70,11 @@
 
 </div>
 
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src='https://www.codewars.com/users/popimi/badges/large' />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -80,5 +85,3 @@
   <img src="https://img.shields.io/badge/mac-%230071C5.svg?&style=for-the-badge&logo=macos&logoColor=white" />
   <img src="https://img.shields.io/badge/Air%20M2-%230071C5.svg?&style=for-the-badge&logo=apple&logoColor=white" />
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src='https://www.codewars.com/users/popimi/badges/large' />
