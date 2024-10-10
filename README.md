@@ -27,14 +27,14 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,html,css" />
   </a>
 </p>
 
