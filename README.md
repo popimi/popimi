@@ -24,17 +24,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
-  </a>
-</p>
-
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,tailwind,html,css" />
+  </a>
+</p>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prisma,nodejs,express" />
   </a>
 </p>
 
@@ -48,14 +48,14 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase" />
+    <img src="https://skillicons.dev/icons?i=supabase,aws" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,windows" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,windows" />
   </a>
 </p>
 <br>
@@ -81,7 +81,4 @@
   <img src="https://img.shields.io/badge/intel-core%20i7%2013700HX-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-RTX%204060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/mac-%230071C5.svg?&style=for-the-badge&logo=macos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Air%20M2-%230071C5.svg?&style=for-the-badge&logo=apple&logoColor=white" />
 </p>
